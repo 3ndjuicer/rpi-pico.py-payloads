@@ -5,7 +5,7 @@ Adding more payloads soon
 
 To install it download this file: [circuit py](https://circuitpython.org/board/raspberry_pi_pico/)
 
-##Installation
+#Installation
 
 - Plug your raspberry pi pico into your computer. It should show up as storage mass device.
 - Paste your .UF2 file into it and wait until it restarts.
