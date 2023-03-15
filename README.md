@@ -11,6 +11,9 @@ Adding more payloads soon
 - Then paste code into. Here are some [Payloads](https://github.com/puzzleshockk1/rpi-pico.py-payloads/tree/main/payloads)
 - When you paste the code in your pico will run the payload.
 
+###Help:
+Discord: Puzzle_Shock1#3058
+
 
 ### created by [@SHXMANE](https://discord.gg/q7mkDgfQ3f)
 
