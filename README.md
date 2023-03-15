@@ -3,8 +3,6 @@
 This is made only for !educational purposes! So i am not liable for any things. Use it at your own risk!
 Adding more payloads soon
 
-To install it download this file: [circuit py](https://circuitpython.org/board/raspberry_pi_pico/)
-
 #Installation
 
 - Plug your raspberry pi pico into your computer. It should show up as storage mass device.
